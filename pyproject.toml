@@ -15,7 +15,7 @@ authors = [
 keywords = ["terraform", "devops", "cli", "iac", "module"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
-    "Intended Audience :: DevOps",
+    "Intended Audience :: Developers",
     "Intended Audience :: System Administrators",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
