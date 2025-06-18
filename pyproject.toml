@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tf-forge"
-version = "0.1.0"
+version = "1.0.0"
 description = "A CLI toolkit for building and maintaining Terraform modules."
 readme = "README.md"
 requires-python = ">=3.8"
@@ -14,7 +14,7 @@ authors = [
 ]
 keywords = ["terraform", "devops", "cli", "iac", "module"]
 classifiers = [
-    "Development Status :: 4 - Beta",
+    "Development Status :: 5 - Production/Stable",
     "Intended Audience :: DevOps",
     "Intended Audience :: System Administrators",
     "License :: OSI Approved :: MIT License",
