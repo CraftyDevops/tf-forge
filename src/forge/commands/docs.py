@@ -52,7 +52,6 @@ def docs():
         raise typer.Exit(code=1)
 
 def _generate_requirements_markdown(terraform_blocks: list) -> str:
-    # ... (sve _generate i _update_readme funkcije idu ovde)
     if not terraform_blocks:
         return ""
     req_version = "n/a"
