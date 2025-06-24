@@ -10,7 +10,7 @@ An all-in-one CLI toolkit for managing the Terraform module lifecycle with best 
 
 ## Key Features
 
--   🚀 **Scaffold New Modules** (`forge new`): Instantly create a new module with a standardized, best-practice directory structure, including `.gitignore`, `versions.tf`, and example usage.
+-   🚀 **Create New Modules** (`forge new`): Instantly create a new module with a standardized, best-practice directory structure, including `.gitignore`, `versions.tf`, and example usage.
 -   📄 **Automate Documentation** (`forge docs`): Automatically parse your `.tf` files and generate comprehensive documentation for Requirements, Providers, Modules, Inputs, and Outputs, injecting it directly into your `README.md`.
 -   🔒 **Lint & Validate** (`forge lint`): Run a suite of checks against your code, including `terraform fmt`, `terraform validate`, and custom checks for hardcoded secrets and module version pinning.
 -   🎉 **Publish Releases** (`forge publish`): Interactively publish a new version of your module. The tool helps you choose a version, creates a Git tag, pushes it to the remote, and even helps you create a GitHub Release for it.
